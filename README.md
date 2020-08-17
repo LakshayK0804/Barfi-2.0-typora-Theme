@@ -1,5 +1,5 @@
 # Hackerdream
-A revamped version of Barfi, using a monospace styled font with attractive colours and a terminal styled cursor and theme.
+A terminal inspired Typora Theme, using monosapce, vibrant colors and a terminal styled look. For your late night writing sessions.
 
 For tutorial on how to install a Typora Theme:
 https://support.typora.io/About-Themes/
