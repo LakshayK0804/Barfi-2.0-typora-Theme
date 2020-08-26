@@ -5,3 +5,4 @@ For tutorial on how to install a Typora Theme:
 https://support.typora.io/About-Themes/
 
 A quick snippet
+<img src = "Hackerdream snippet.PNG">
